@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "666bc3a19890808d52b36daf"
+  },
+  "taskid": 1,
+  "topicid": 1,
+  "userid": 1,
+  "task": "html task",
+  "due_date": {
+    "$date": "2024-10-03T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "666bc3a19890808d52b36db0"
+  },
+  "taskid": 2,
+  "topicid": 2,
+  "userid": 2,
+  "task": "css task",
+  "due_date": {
+    "$date": "2024-10-09T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "666bc3a19890808d52b36db1"
+  },
+  "taskid": 3,
+  "topicid": 3,
+  "userid": 3,
+  "task": "Javascript task",
+  "due_date": {
+    "$date": "2024-11-14T18:30:00.000Z"
+  },
+  "submitted": false
+},
+{
+  "_id": {
+    "$oid": "666bc3a19890808d52b36db2"
+  },
+  "taskid": 4,
+  "topicid": 4,
+  "userid": 4,
+  "task": "React task",
+  "due_date": {
+    "$date": "2024-12-19T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "666bc3a19890808d52b36db3"
+  },
+  "taskid": 5,
+  "topicid": 5,
+  "userid": 5,
+  "task": "Node task",
+  "due_date": {
+    "$date": "2024-01-24T18:30:00.000Z"
+  },
+  "submitted": false
+}]

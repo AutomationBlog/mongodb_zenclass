@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "666bc3679890808d52b36da0"
+  },
+  "userid": 1,
+  "name": "John",
+  "email": "john@gmail.com",
+  "mentorid": 1
+},
+{
+  "_id": {
+    "$oid": "666bc3679890808d52b36da1"
+  },
+  "userid": 2,
+  "name": "Siva",
+  "email": "siva@gmail.com",
+  "mentorid": 2
+},
+{
+  "_id": {
+    "$oid": "666bc3679890808d52b36da2"
+  },
+  "userid": 3,
+  "name": "Sam",
+  "email": "sam@gmail.com",
+  "mentorid": 3
+},
+{
+  "_id": {
+    "$oid": "666bc3679890808d52b36da3"
+  },
+  "userid": 4,
+  "name": "Guru",
+  "email": "guru@gmail.com",
+  "mentorid": 1
+},
+{
+  "_id": {
+    "$oid": "666bc3679890808d52b36da4"
+  },
+  "userid": 5,
+  "name": "Jancy",
+  "email": "Jancy@gmail.com",
+  "mentorid": 2
+}]
